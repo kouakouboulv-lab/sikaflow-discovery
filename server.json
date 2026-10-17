@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792235669000,
-  "expires_at": 1794827669,
+  "revision": 1792235999000,
+  "expires_at": 1794827999,
   "server_url": "https://rpg-achievements-cooperative-swimming.trycloudflare.com",
-  "signature": "MEYCIQCqlbubR13vHz1zSDrxKrP0f9Wdg9f0ONHZMd8s2HK6mAIhAMWvVXNjqj8gFIqDtb26rM37k9qoccpT/ixfM6bi+qVq"
+  "signature": "MEUCIESSnDiaiiE5kHDJRpugpJXX9xmpE8KZdNwDJEknhyWmAiEAh5sqX3vdDaJz0yU3V5wTgq8xoYz0EhTMSO/FgYW74uk="
 }
