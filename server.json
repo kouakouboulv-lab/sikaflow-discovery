@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792441016000,
-  "expires_at": 1795033016,
+  "revision": 1792441362000,
+  "expires_at": 1795033362,
   "server_url": "https://born-immediately-speak-invoice.trycloudflare.com",
-  "signature": "MEQCICeqL7CfT0+H6triEYljkxgGHH3qJwVsR6XvPEZ59TD4AiABh6ejnBhtnCwfTjdEjLXutCmy1k1oh1ARygeyALUJAg=="
+  "signature": "MEYCIQDrbHr8pQgIKN+pletimfVbbhoiXBgwr4tGakXn9ROQ0gIhAOoPULLYzDNoFI6WPLImQCb0V/X+RjPH+6mxVHLVuGMy"
 }
