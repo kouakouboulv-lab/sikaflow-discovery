@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792404130000,
-  "expires_at": 1794996130,
+  "revision": 1792404461000,
+  "expires_at": 1794996461,
   "server_url": "https://graphic-device-dns-telecommunications.trycloudflare.com",
-  "signature": "MEUCIEkpWwu+NyjDD4/+ekRC7HY5avReq54roi8i4wanYCzLAiEAzfN75fMoicTiFDD3yuJ3lXEKoy+EoDtADYfby5h7STc="
+  "signature": "MEYCIQDxIAUr3d186ER8JybxNAna0BV1VVh/jdpqYNXcQwYcfwIhAJAwODnjvuO2AnIJlTbucBEaWu4C5ookSFZzyWNCr6v7"
 }
