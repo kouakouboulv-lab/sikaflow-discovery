@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792425847000,
-  "expires_at": 1795017847,
+  "revision": 1792426171000,
+  "expires_at": 1795018171,
   "server_url": "https://puzzles-reproduced-each-dispatch.trycloudflare.com",
-  "signature": "MEYCIQCwYpocgURAGeuBoF6DhFXfPSp2FZycY5NNyY9PXebR6AIhAPj0aio/9z8uHMPL5vxWYQRs6Z2XbclMsrRk8MMq3rbM"
+  "signature": "MEQCIB/pwU26DCqLuohRr7vV+oGf12j3w5uLUVqJW08Me0U/AiBS7ocVMoKt+zuXGeZFlgVvbKa8aFzwCOrtpRtq1Rvv6g=="
 }
