@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792397236000,
-  "expires_at": 1794989236,
+  "revision": 1792397551000,
+  "expires_at": 1794989551,
   "server_url": "https://fees-distribution-poster-marina.trycloudflare.com",
-  "signature": "MEYCIQDZ9ya/IV2B1EwKVkRALoFhqH5msZO4yQHQWpMfFbYRDAIhAMy3dVl0Nua3IApMtBgj8BNKuGsbukV/1JKr/pbU/s0c"
+  "signature": "MEUCIFc6ztQ1KV9vpW0Eqftk485pPAerwSd1BFZSEHPqqFOaAiEAnWB1jGzDGwlwvn3dCGJNMy+HSdh0hxjsc7dYJKrT3N4="
 }
