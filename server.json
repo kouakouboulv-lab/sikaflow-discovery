@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792405727000,
-  "expires_at": 1794997727,
+  "revision": 1792406045000,
+  "expires_at": 1794998045,
   "server_url": "https://spoken-civilian-unsigned-about.trycloudflare.com",
-  "signature": "MEQCIB7lvEg3kD9K0pekbNfsYQq5tM0H/4J17MkknoiPFvMBAiB7K5gpQFImgfmuQuateDjAndX/MVdRWr6NEMchBj3ItQ=="
+  "signature": "MEQCIB3y45ZCI3B1Ze8W0gLn3RPD9zHQeESZql53RuW3gjVXAiBRP4haGXDapM1dkwLznFG1r5tGsXedl4jEIuHgQF4Deg=="
 }
