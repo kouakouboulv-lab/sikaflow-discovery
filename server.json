@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792393911000,
-  "expires_at": 1794985911,
+  "revision": 1792394243000,
+  "expires_at": 1794986243,
   "server_url": "https://recognition-workshop-eng-montana.trycloudflare.com",
-  "signature": "MEYCIQCItkspo6E//eFQlsZt8m/eJ1s0ndKkMWn01MzXVM2wzAIhALeWkgQSTGvoI475ZQxerCu90d13DwvCOHyVCdsAF38E"
+  "signature": "MEYCIQC5fhoy54kl/pyE459Q4hbB4+NIiqTVYScewTdPFAP3WQIhAOEJJ+8atw+5Go+xtGQW2iZo0TcVUt8kMl/CnM116L+9"
 }
