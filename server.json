@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792500162000,
-  "expires_at": 1795092162,
+  "revision": 1792500484000,
+  "expires_at": 1795092484,
   "server_url": "https://devel-coat-linux-indie.trycloudflare.com",
-  "signature": "MEUCIQDF3yLEKuiCn3GR8XOkQMHGRr9/tyiytqBTh9YosEisJgIgBPkqh3B9MKU3hebEHpCh108Ss5Ioj6zuPFlCQjtmcG8="
+  "signature": "MEYCIQDdMpK3foH9QzWifTaU308Fe++vvoaei7lqi2fvEg/ZAQIhAOJSw0homdZu4jxJUZJ4izLW4+0rSJV1W+Dde01YuiHe"
 }
