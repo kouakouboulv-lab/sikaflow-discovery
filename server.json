@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792484318000,
-  "expires_at": 1795076318,
+  "revision": 1792484639000,
+  "expires_at": 1795076639,
   "server_url": "https://whenever-campaign-greene-eating.trycloudflare.com",
-  "signature": "MEYCIQCFTVSB0EJl12WDHMdAkQDMWRcRTpuOJmzTCBWWCwmcOAIhAPSj0Dw50CxEuuYDhnbRufgwx3ACsoiIwWsY5g5QN/mD"
+  "signature": "MEQCICOhLF903IQ3Fabn3+JUPF9TQQjlaR4CMuy0KObuuthJAiAV7WE1Z85TIOLyplAm4IBo2+4V2xzv9THyWqsvpTZlHw=="
 }
