@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792524077000,
-  "expires_at": 1795116077,
+  "revision": 1792524417000,
+  "expires_at": 1795116417,
   "server_url": "https://project-cube-withdrawal-ellen.trycloudflare.com",
-  "signature": "MEUCIQC40MXC0jRoqslwnNos0nzkQqlrvQwRq/Dee3VZjGAyqQIgfNQtqGVnrG1hsg4M5d13Ud55sp7GmlZrESGfPmImTJk="
+  "signature": "MEUCIQCMdJNH2AlBv11gpM/WysnGt+6DpWzRQBlX9ogSpoIXYwIgHFOEDDfrY4wa62UogBhLI9U06br742FS4vfCKHRI7EQ="
 }
