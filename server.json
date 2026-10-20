@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792535265000,
-  "expires_at": 1795127265,
+  "revision": 1792535626000,
+  "expires_at": 1795127626,
   "server_url": "https://arthur-basement-shoes-campbell.trycloudflare.com",
-  "signature": "MEYCIQDW1pBJjvZSiY3xqwELQf3QjIMDdv1XvjBIeZ6pq/fQlwIhAO/30XaAt2H04wuzvPPQHkCsTa1bjqf3JXa6l2kNXt8p"
+  "signature": "MEQCIDNLjrVUDNHW7laytkRHqCgHS+MF5t2fQavGJ+3b4JhVAiB5TbGnJQr2/S0k5eGqY6t05OSb2skHL8kdFWk65IL5aA=="
 }
