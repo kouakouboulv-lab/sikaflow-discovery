@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792463094000,
-  "expires_at": 1795055094,
+  "revision": 1792463429000,
+  "expires_at": 1795055429,
   "server_url": "https://leg-warnings-capture-provide.trycloudflare.com",
-  "signature": "MEQCICUZpT3lLPQv63nNRlAxFL59ALKQZ8rOToS61mcGMNGNAiAJk6eQBOhn+7EznqU0Fqo7ESC7bfeSZUoapvLXICseug=="
+  "signature": "MEUCIQCd2iFPqgEVgIVN7KOERU/nyC55IOtY0eCt5U1cDgFd2AIgVEkuPyAsxqaGyE4hYasQ9ReYuJgqVbMqx7/q54XpZV0="
 }
