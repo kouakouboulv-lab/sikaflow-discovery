@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792538000000,
-  "expires_at": 1795130000,
+  "revision": 1792538353000,
+  "expires_at": 1795130353,
   "server_url": "https://victory-figure-strange-boots.trycloudflare.com",
-  "signature": "MEQCIAFvkQkVcq7SJznxNljg8wxF3VAj+lERlFTNBNLSgA/wAiBEoLOGHrM0UcDqYPoezOt239ZMPBIz72wdsYzvLhbvCQ=="
+  "signature": "MEUCIQDSZnq+jMURWyMBoHnu2ItAV1RBJncJb/snpWnO7U7kUQIgG/5sORbjmkT6AOP1L9/qICMMP4t+ntI7ROCQ6+8mQCA="
 }
