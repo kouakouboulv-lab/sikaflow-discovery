@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792494493000,
-  "expires_at": 1795086493,
+  "revision": 1792494815000,
+  "expires_at": 1795086815,
   "server_url": "https://newton-suggests-accessing-christ.trycloudflare.com",
-  "signature": "MEYCIQCAeOCgAzbBI3fFX8uapupg+fc0RdoFYgUCfcvCv+evIgIhANZS0bo64eyxM9MkD6B8lzyrBtGdhvtvlR6RIScIrI5S"
+  "signature": "MEQCIEhVQZYelJMEzMMZ4um2dVA8ppzmnYm4xKdNazqtyhrcAiAo2fesrzlajB57FjMtzU1rt49K9bhJKSI6PuyF63YgWA=="
 }
