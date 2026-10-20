@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792501126000,
-  "expires_at": 1795093126,
-  "server_url": "https://devel-coat-linux-indie.trycloudflare.com",
-  "signature": "MEQCIAuiurXgxxfkJMHvHNXTG6g9IKr+Sq84nz8rUcJ922TJAiBei+VBhcXVI05ueRFwB8qlsw134jgpc+vyrAygvHNhIA=="
+  "revision": 1792501953000,
+  "expires_at": 1795093953,
+  "server_url": "https://expiration-mechanism-guam-union.trycloudflare.com",
+  "signature": "MEYCIQDpLz/M846UVzcggEQOnkUoTpg0NlpjMl09mNWnkTSiKgIhAKXO4zRlEtHrkeL9iY3j0wJOPefbV5a/vt2G+HXPH2Qk"
 }
