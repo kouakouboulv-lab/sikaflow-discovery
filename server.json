@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792554272000,
-  "expires_at": 1795146272,
+  "revision": 1792554602000,
+  "expires_at": 1795146602,
   "server_url": "https://nokia-alpha-nvidia-choice.trycloudflare.com",
-  "signature": "MEYCIQCowECK+9xcYdLfS9tWh8cFIu2nGwlbfFxkcyxaYH/weQIhAPeXyCQ19HDFlih02AswQzUFavjAwbl0zLfZgI3i3vsb"
+  "signature": "MEYCIQDlUG8AwWsLZJHhQGciIJQ2XgEPb+USez6szqJ4UMkxmQIhAMIOj2G6DJW4lQdCfQO9dIzZMcclN4f8S98dKIZ/h+4W"
 }
