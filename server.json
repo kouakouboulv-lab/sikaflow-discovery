@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792578127000,
-  "expires_at": 1795170127,
+  "revision": 1792578614000,
+  "expires_at": 1795170614,
   "server_url": "https://sega-managed-indicators-deaf.trycloudflare.com",
-  "signature": "MEUCICHcbtjnGu1OfwulSwMa+GeFnKyQpRnAQPGLczYeQAjYAiEAvSonl+bMgqrXE7M4t8PFpyvDVz9mSuxzd2NXT2BdDyQ="
+  "signature": "MEUCIEtga4mhVNfqzG3hmkHrpw+E5by/xYkWLo+FpymfsQOqAiEA6w5Ykop1NV0f9w8X4f4mWiZHY3wQM0LJLoTCSMrG1aA="
 }
