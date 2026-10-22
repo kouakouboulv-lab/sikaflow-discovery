@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792702066000,
-  "expires_at": 1795294066,
+  "revision": 1792702392000,
+  "expires_at": 1795294392,
   "server_url": "https://advise-marion-functional-quote.trycloudflare.com",
-  "signature": "MEYCIQCx/LNVYuVDQddRy6AHQZaE4lkBC76g3EkzF9WheiZLtAIhALHqO3nCYX16KLI3IgvPfVv3Q3AIaavJ6hkszq+nw8sZ"
+  "signature": "MEUCIFQvu21IzabplQoTAM53Sum5q85eGgZslyB/ESwHTlZJAiEA4hpImzF83SjES7SPJfVihVDpT0WLDpqAdL0C/qKDg1k="
 }
