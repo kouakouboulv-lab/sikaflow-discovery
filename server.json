@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792708939000,
-  "expires_at": 1795300939,
+  "revision": 1792709295000,
+  "expires_at": 1795301295,
   "server_url": "https://directory-sunrise-assist-increase.trycloudflare.com",
-  "signature": "MEYCIQDQOccUsJUH/VGASrXM5EBbrfakfVRLGW/VfqjmDnOoPwIhAJnWVXjnEYGLn86LCZlHBQyaH8GlzolTLTqqtq6/pEtH"
+  "signature": "MEQCIDGj9QTDKi/a4eQUqx5wR/Ej5kpboGKqkcTbjl+T5VvqAiByiQ5C5YiO69rhNlGyZlKyeqpzIJQ5DmLbz9C1j6uo+g=="
 }
