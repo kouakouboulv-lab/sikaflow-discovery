@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792658052000,
-  "expires_at": 1795250052,
+  "revision": 1792658409000,
+  "expires_at": 1795250409,
   "server_url": "https://signals-calls-learn-companies.trycloudflare.com",
-  "signature": "MEYCIQCt/XRx9m2HwDn7aBdZgnfF2TQms/CQzfuUsVNtBr9keQIhAPqmtFdp8ETuUW3LwpbY4tnjEXFvmuz7Wk5cpDjmcrE1"
+  "signature": "MEQCIBjjbAR2NIVuAEW3PdStq2jkcQUu0jfTPajrOvcCNIPCAiAYS0nUIBDm5Z94z1nLkBZHaXU+0izJTGlzNRZn18+zMw=="
 }
