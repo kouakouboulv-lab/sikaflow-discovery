@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792700829000,
-  "expires_at": 1795292829,
+  "revision": 1792701000000,
+  "expires_at": 1795293000,
   "server_url": "https://data-cleanup-with-aka.trycloudflare.com",
-  "signature": "MEQCIEBIBLcRrayKXvl9qoWFg4sn4du2i0Rva+2CzjCJXWH5AiBLmkmpYUYiGK2TP83aISNNFX36ENdVvpD4K1LdTuY2sA=="
+  "signature": "MEYCIQCz+s/d2qoEEMB6G4y3t1KplbdjsmsuTATEFYRrS1qXVwIhAI/qhCcJFV7u+QhOsPDiEClAh9iLt1v8omitFHNdmZTD"
 }
