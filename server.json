@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792696066000,
-  "expires_at": 1795288066,
+  "revision": 1792696455000,
+  "expires_at": 1795288455,
   "server_url": "https://period-rangers-logged-distributions.trycloudflare.com",
-  "signature": "MEUCIAGNZBo2nTNhrSzJbz/q8tQC010xlbk46zUzINYe1C79AiEAhDilwzuILNKdXxi4WqL5YpGbkCAJBJD2SPbng/2RFeg="
+  "signature": "MEUCIQDXMcWo+/zYRNRH5Hae7UpFFPqFwfUle0V/xuzlFx8HuAIgWYrhLAuJb5e9jb5k9zkxuIktxqgYiwcX7QwK7fGKzVo="
 }
