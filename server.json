@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792605628000,
-  "expires_at": 1795197628,
-  "server_url": "https://earl-mount-src-grades.trycloudflare.com",
-  "signature": "MEYCIQCGTKvQUwUO+aNLo1nXE1qhdl7nBijPY32hnWekXD0chAIhAPlCK17sOcN9TMnd8qxtmrnQU4kBqPNRTC4QhQvQAAjE"
+  "revision": 1792657703000,
+  "expires_at": 1795249703,
+  "server_url": "https://signals-calls-learn-companies.trycloudflare.com",
+  "signature": "MEUCIHStgP62j6OIxIhACsGisjHxhkzuc9kYJEceiFRcnBOPAiEAjib0Eo01gxCWVQApH6WHEY2KXavLp02QHzCVWfJrPfs="
 }
