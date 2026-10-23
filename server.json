@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792747623000,
-  "expires_at": 1795339623,
+  "revision": 1792747950000,
+  "expires_at": 1795339950,
   "server_url": "https://shots-detected-starter-designers.trycloudflare.com",
-  "signature": "MEQCICBqMbk9ZLSV1AY4FqXtU/zImpJEfHNXI7LQHCRU5NtfAiA0REmGeFnptnn8R/tzOeXIG/qO9vI+Z9h7sgREGXTB2A=="
+  "signature": "MEQCIGzHqy9pHtBpkCwkDyRa2PTOBKYlBz+9C++mpfjujBIFAiB175cpIihOicx2TyNO+ITIqRMQ6pxffnKfHfvByom+/g=="
 }
