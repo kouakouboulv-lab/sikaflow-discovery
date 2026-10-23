@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792766966000,
-  "expires_at": 1795358966,
+  "revision": 1792767299000,
+  "expires_at": 1795359299,
   "server_url": "https://transport-something-crm-theaters.trycloudflare.com",
-  "signature": "MEQCIAQz1P2PZc6SOvRhiVF/jXRsIhLHpKz1uWT8ZaxpFDRmAiAeMWXlJJ2h4afSzCKxs9WDc6yOkpL3FMJvnd8Y1feYrA=="
+  "signature": "MEQCIEvw8H07/rpYordWcCWNHTZPp1bvNY3ZiObis2mMfkavAiA8Ux5JU/f785u7F4hGazLgo/DrC9jfvdY5ilVYPPN+Qw=="
 }
