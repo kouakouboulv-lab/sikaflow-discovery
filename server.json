@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792733236000,
-  "expires_at": 1795325236,
+  "revision": 1792733555000,
+  "expires_at": 1795325555,
   "server_url": "https://superb-conferencing-folk-messaging.trycloudflare.com",
-  "signature": "MEQCIBlFQPSn1hPgM4aqz9nFIqCIocDT/tXwAcLt8fvKmkLVAiBMATflUPCyfjxNl/vN7ffZOZHyM26hWlMUnBd4ZT1ceA=="
+  "signature": "MEUCIAUCWgGVUqtOmu9/OumS1UayMxb2CDct54TmD7oAAb2LAiEAoY+3L3mMxfnxU6nsUaMOiutVPIGGhie2zTsKlIwnqoc="
 }
