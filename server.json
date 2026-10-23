@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1792744100000,
-  "expires_at": 1795336100,
+  "revision": 1792744422000,
+  "expires_at": 1795336422,
   "server_url": "https://aim-hop-compensation-varied.trycloudflare.com",
-  "signature": "MEUCIQC+m9zBqiuz3u7ZtSleTEGGT2mm9nMK2i9zaXrNMjB8YQIgCLZyOM9xeEoLt14jzPoHtLfbVx/F240C59jtJB8TUzY="
+  "signature": "MEUCIQCrFo4gL2ysN61Uw3zyDmu+ALftJyvOYsq40YpU7jN5OgIgW+kZNAdi++fZnz4NT1hPmeyaTGFXq8+E5Fu27BK+lOs="
 }
