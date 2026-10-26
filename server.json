@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793021147000,
-  "expires_at": 1795613147,
+  "revision": 1793021516000,
+  "expires_at": 1795613516,
   "server_url": "https://partner-onion-resistant-personalized.trycloudflare.com",
-  "signature": "MEQCIAHhV4wCRduqJLYW1fJcnIlNYkDRfqa/pSKAVUfVDdQPAiAz2Id0LEbDWGx9EJ1/RldLuY+AC8zLLsIs6gYp2+PIiQ=="
+  "signature": "MEUCIE58hBXWI7wV3LH6Gv6LX8WOwPKDTwrSTstYxpWAvp1HAiEA7XjLs8eJs2aNgZVComyHU4FP/Ao9GGhD+0GFhHxcnCk="
 }
