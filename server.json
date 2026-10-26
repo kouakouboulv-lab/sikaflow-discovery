@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793032814000,
-  "expires_at": 1795624814,
+  "revision": 1793033154000,
+  "expires_at": 1795625154,
   "server_url": "https://essence-utilization-bodies-conclusions.trycloudflare.com",
-  "signature": "MEUCIAHas9psQORkxyVhgxYA+NWUOUXy9GN63UGpoWJzux9EAiEAqrlzUp8U9BQ+kDy+I9HhvNL5CzLQdDLeH+mAVvbNFOg="
+  "signature": "MEUCIQCWcdm8p/mGPtlLrwCemAO4kKmNaMKV7ocIXHyblA5HEgIgcHsesvhYdPh8KDvSIr5n8wXe0VldAOC+MTEfYL6Z1wY="
 }
