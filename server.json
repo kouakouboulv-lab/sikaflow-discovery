@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793101362000,
-  "expires_at": 1795693362,
+  "revision": 1793101683000,
+  "expires_at": 1795693683,
   "server_url": "https://mission-bigger-vertex-games.trycloudflare.com",
-  "signature": "MEQCIBUe7GM8cqIvNQiGzD2aR0piB6zatt8Roly2y7jBUIuPAiAt/4wMnJw5GPzPJge3h5PxmegdFJncPQcXfW0Qs5lFXw=="
+  "signature": "MEUCIQCTsIwx//LL9unZQbaWW3uQ4RkCkOSQIASmZNA4rtCFqgIgVpI3c68AdMZSporCgj1JUNWP7lU2W9m2pZqhSo7Jd8I="
 }
