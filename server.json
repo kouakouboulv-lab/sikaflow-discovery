@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793196269000,
-  "expires_at": 1795788269,
+  "revision": 1793196632000,
+  "expires_at": 1795788632,
   "server_url": "https://milk-following-agent-berkeley.trycloudflare.com",
-  "signature": "MEUCIQCa3/v8ufYWRBIkVxeO+1bjY0fo/gevv8G4RcWlg+g6gAIgCSNUereH0uaR/fRc8917UouHzZJRxfjU0C14pmaHsU4="
+  "signature": "MEYCIQCdLrJDQ33A7g/hukMf1ZvS2QubJ3i32P4mjB+VeSPldQIhAM3mESGEvRJts87RqqMH7kJv0lBF4xiCoqsMyHPyKkfl"
 }
