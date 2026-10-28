@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793180196000,
-  "expires_at": 1795772196,
+  "revision": 1793181763000,
+  "expires_at": 1795773763,
   "server_url": "https://chester-wins-technical-approx.trycloudflare.com",
-  "signature": "MEYCIQCHRbd7lu3hi7w3l50Du/a3wH6iXlk941uGvGuytzrq7QIhAJhvqmAiPF6GgS5Exw9e2kLssEGLHGFTGqBponl0wK4w"
+  "signature": "MEQCIHraX4HJ4zsuAaa8z6znUeNvfER6R45dv7y/wfTq16wSAiABoq+pe98dJi1pYiSq4Su4u2XqIhh6BKZmu1pt3t4ibQ=="
 }
