@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793185853000,
-  "expires_at": 1795777853,
+  "revision": 1793186180000,
+  "expires_at": 1795778180,
   "server_url": "https://remain-cognitive-punk-donor.trycloudflare.com",
-  "signature": "MEUCIHZkJAv3yKO37Um5K1qMYWm6MAPiZCpESkoBF0IHLeaZAiEAqTKvQKU10+MrWnKTmZURks8qcsTmcU7qDVfirPg8c+g="
+  "signature": "MEYCIQCtB1OlrkXmGOp/GUqXeQljy15iIoVZpZzCS9+RTSw1GAIhAMqQDTc0Ru1twfVAbwmuDVEY7dSZRaLC5L2sQQOC6077"
 }
