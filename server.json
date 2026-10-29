@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793273694000,
-  "expires_at": 1795865694,
+  "revision": 1793274063000,
+  "expires_at": 1795866063,
   "server_url": "https://docs-fancy-solve-pics.trycloudflare.com",
-  "signature": "MEUCICDyeK8pv2KwEGBhE5Lxba5/7ZlDmqHpFfjeQrg7Zia6AiEAr893aVEu1+ZWXtRnrcS3Q6MxSmrvWH6MbHauFae25tU="
+  "signature": "MEQCICkFLpTOgWH8VEsDQyHvPI0D/sPFvjqWOtdyI26F6fGtAiA/jTp7jpIn1TKAxV9bHaDOPqeifNrScQQDztH3kbv6Mw=="
 }
