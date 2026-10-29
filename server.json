@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793294390000,
-  "expires_at": 1795886390,
+  "revision": 1793294722000,
+  "expires_at": 1795886722,
   "server_url": "https://juan-able-civil-ireland.trycloudflare.com",
-  "signature": "MEQCIQDicaxs6ahJ4olmHrMd2j/TCBfv1z4mMjAlDD9XWzZ03gIfeAG0nSk2WFrwyyvACM8jkPN+zmlQ86hpjLQo7XaWIA=="
+  "signature": "MEUCIQCmCGbhMscJOap/J9BmEbvbEilZTJBIutE54jTt5nghqgIgffaF+ZcEvzMAloL1irfQ6+9XuGCQqAmU0HaS1+PUin4="
 }
