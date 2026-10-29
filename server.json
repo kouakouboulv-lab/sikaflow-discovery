@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793267076000,
-  "expires_at": 1795859076,
-  "server_url": "https://lightning-keith-john-lotus.trycloudflare.com",
-  "signature": "MEUCIFaa/fw3KdL1Vo/ckoaN7V2JZKT4gFVDTMEzzYMxF6FaAiEArsF4f+EP+p5YtGePmIwNK3vOImdbuVw5rDUve+apgsw="
+  "revision": 1793267424000,
+  "expires_at": 1795859424,
+  "server_url": "https://downloads-seeing-circular-build.trycloudflare.com",
+  "signature": "MEUCIHIY66rxVwSZQmd6S2OqiZl9F2FQa8VYlXlmiHFVAKtHAiEAr414HEptF/AEE/iBWkYU/FhoHXf82cSkc06rx0L7f+8="
 }
