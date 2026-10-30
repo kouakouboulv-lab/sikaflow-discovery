@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793354006000,
-  "expires_at": 1795946006,
+  "revision": 1793354365000,
+  "expires_at": 1795946365,
   "server_url": "https://translator-enjoyed-detected-farmer.trycloudflare.com",
-  "signature": "MEUCIBMiQmD2OkpkC0cTIZxymjWyefZwddftKydrGI3WP6NMAiEA8vuM9DjJAMTSMHz+Gfo/+cdmPyrbSRuqSPWJjbrMB5c="
+  "signature": "MEUCIQDnL/Z/T9icUoQGkY+NH8AONVQEWsxtsvS1OQo7fkvGrQIgTQ694iULVRnSxSsDOXttd4g8HfPQXAo11OMDukQ5ykI="
 }
