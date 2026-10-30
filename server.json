@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793364757000,
-  "expires_at": 1795956757,
+  "revision": 1793365077000,
+  "expires_at": 1795957077,
   "server_url": "https://lyric-uni-len-scientist.trycloudflare.com",
-  "signature": "MEUCIQCt/zMmNhshs3AbKHzYq62mJrGOgTTdtT+eNyuJ7ShVEwIgPAj0hcYSgo1ANyrQ2dKLs30WcX4oRxtqSCdz9PbwGpw="
+  "signature": "MEYCIQD+KxR/aORVh7xI7GG2qJ+Cz1VxLxZtE5Ewg/1qA0s0cwIhAOjKkugHfKWFVpEQ2YlSk1NPbzuuS/VGS8Z6NZenM4QA"
 }
