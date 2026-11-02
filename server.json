@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793615201000,
-  "expires_at": 1796207201,
+  "revision": 1793615535000,
+  "expires_at": 1796207535,
   "server_url": "https://tribe-sets-alternatively-maintained.trycloudflare.com",
-  "signature": "MEUCID3My2EKutG369mvPhSppmRAtbgzDT/EWWzwH6vkACXlAiEAn2OTayuAWburTCYtcHCqfTIbm1CY2uinVMo6X2blLpk="
+  "signature": "MEYCIQCNJsy1DDs029qj/tfuxBMYofVr6dWCDIokscQix5p8EQIhAMs8rowZxSRy/FbQSZBE46LpJtHa2P9Wk+8ncYbb9PhG"
 }
