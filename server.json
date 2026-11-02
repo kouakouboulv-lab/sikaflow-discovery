@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793633185000,
-  "expires_at": 1796225185,
+  "revision": 1793633506000,
+  "expires_at": 1796225506,
   "server_url": "https://online-serious-tech-observe.trycloudflare.com",
-  "signature": "MEYCIQCNmYxsdUuvJ8hNljn54+XuEluEP7ZvsgVAtdzSJjePjAIhAKBfwFeXyEkPGju08H4UzRrI22arpnfzH6v0kGzCOhk6"
+  "signature": "MEQCICMiv6xxwBhSoVN87RsSwNC/CZZKgqhZfPi1FDfiAg6aAiAnfCsEOhTBL/1ph6goX+9AkMg7ebcz6OiTdrThTuOEog=="
 }
