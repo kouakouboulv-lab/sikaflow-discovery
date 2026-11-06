@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793958482000,
-  "expires_at": 1796550482,
+  "revision": 1793958805000,
+  "expires_at": 1796550805,
   "server_url": "https://greetings-attribute-spent-priced.trycloudflare.com",
-  "signature": "MEUCIEFrCEtpBFmcB7DTeXJrejX54eYhmBJ2Lcwnw+eoMFMFAiEA0db8SqwT7HxSfFW0nv2zsJT42QSWkzWCav05P9/B/Xo="
+  "signature": "MEQCICjQcudSPszDyTBj2efB8ZXPd0uYFht7gfkBqWuH0GYFAiB5Tb5HDNDSE61Rrk2m4r81PBOWIhINMpozXezpAuiGZw=="
 }
