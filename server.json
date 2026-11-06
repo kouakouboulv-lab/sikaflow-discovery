@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1793967664000,
-  "expires_at": 1796559664,
+  "revision": 1793967991000,
+  "expires_at": 1796559991,
   "server_url": "https://celtic-reached-student-responsible.trycloudflare.com",
-  "signature": "MEYCIQCLBkpFVc3F7wl1KqMEYh9xoXAjtkJZO/YY4I+0ag8EDAIhAJt9X5OSfzQKg0j+BHjRe11yGb1RPJhCMRPtn+PqTAGq"
+  "signature": "MEQCIHibgmirXmR+pb7vCRvDdB5QioxYpx59WsVOFiKvRfwjAiA+9vLrAqdW4Q19+dMoQL25rPSDuUHmegVZVNLLWKGpNg=="
 }
