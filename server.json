@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794236215000,
-  "expires_at": 1796828215,
+  "revision": 1794236933000,
+  "expires_at": 1796828933,
   "server_url": "https://legs-associates-strengthening-indexed.trycloudflare.com",
-  "signature": "MEQCIF3Sb2bSA/xpJxBQOKXlDdUAqH6408JzfT2bhU7ZqZ7XAiAM04rSp9hRNFi4HGXMrS/pqwfHxkgeHvFkrGIoTbApkw=="
+  "signature": "MEQCIBQpovPr5xSKPRaXob9XYOiVE75LC8WhssSjN4LmEOasAiBC2LwEP4gPmmA5UDUPnRP50+CcTnlO/ftIRXiiJKsLwg=="
 }
