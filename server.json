@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794246624000,
-  "expires_at": 1796838624,
+  "revision": 1794246991000,
+  "expires_at": 1796838991,
   "server_url": "https://edges-dawn-biographies-nicholas.trycloudflare.com",
-  "signature": "MEUCICdZScJNGqpH807koCwTk4dwJG3IBuStC1mRzRjwF9ErAiEAr+HkDHuKYvuv4pNV7eCkO+fk0nQAT7leR257+rZAyE4="
+  "signature": "MEUCIHimcMbDAgMNISX/smNz5t4Umb/7HpxKjjstq8KjiDCVAiEAkP6bycGLLdbyqZ7QZxk8rCuiP5dgPh1bLUzD1WBnblA="
 }
