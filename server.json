@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794217675000,
-  "expires_at": 1796809675,
+  "revision": 1794218029000,
+  "expires_at": 1796810029,
   "server_url": "https://kent-isbn-referral-watching.trycloudflare.com",
-  "signature": "MEYCIQDAwf0mN1io9ZCCVIhpF7kY7/a7pt+VonjP57MsJP4KggIhAKhXblx3vU+ON2n4nUHsJTU1KoysrYkaLs3tjHryDDUw"
+  "signature": "MEUCIGEVJzBeBIo6g+nSMIeI85EOGAKAxJxke78dpWPJnwiPAiEA+XosrvhD2vxfgAn+9EEvPBO4DZ/nirnuqF6iDCAp7Ss="
 }
