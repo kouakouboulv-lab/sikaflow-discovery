@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794326000000,
-  "expires_at": 1796918000,
+  "revision": 1794326225000,
+  "expires_at": 1796918225,
   "server_url": "https://finest-choosing-convergence-kde.trycloudflare.com",
-  "signature": "MEQCIDvN5Ic7UpT3PFFNe5ZhCNBhQbzbLCSVjWokIcfkgxsAAiAFzIRK1qES3bK4hw29c113hGjeSHjOCkNGd0GLY0zsmQ=="
+  "signature": "MEUCIGv+Wby3eImnjgpouWiTO+xYmgcJlOcr0Qq2OAFrMsRwAiEAtuYfx3caP2+7YQua8aZ1lccF32iX2HLkOUuoBPnHxFY="
 }
