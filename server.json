@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794301570000,
-  "expires_at": 1796893570,
+  "revision": 1794301973000,
+  "expires_at": 1796893973,
   "server_url": "https://vessels-platforms-exhibition-motivation.trycloudflare.com",
-  "signature": "MEUCIQDTpyMCxdE8yDIi6QftGFWCESr4qpUY+fqxuiUTlPQCBgIgHxx1GhtISvAyEL/OoiJeV9QwXmZYxkf1RkJ3ErD/kUk="
+  "signature": "MEYCIQCWVZRVl0RIzd1sZhThXN44J74aS8dOxmtu8+sLgnM+dAIhAIcOF4V5ry2P+Gb8ZoptBdWB44Vysl2GnpNQM5J4CNiU"
 }
