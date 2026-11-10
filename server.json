@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794313595000,
-  "expires_at": 1796905595,
+  "revision": 1794313935000,
+  "expires_at": 1796905935,
   "server_url": "https://lights-additions-boundary-metric.trycloudflare.com",
-  "signature": "MEQCH0BRhjAuJ5UuSB58Xv3+LMVJ0GMD20ljMWnt5ltEU2wCIQCKj++GJh5ED5JvSbRdaRbSUV4Oht3YgYY5CSM0L5+qJw=="
+  "signature": "MEUCIQDFiRih4nP9FTPuXaLcLTC80dg/VzDhA7CVqUMP+UPuvQIgF2CjCx7rIlP54TI4SXwaUQbUTwMVWANG3nm5zy697s4="
 }
