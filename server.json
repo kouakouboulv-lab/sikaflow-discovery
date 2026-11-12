@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794518111000,
-  "expires_at": 1797110111,
+  "revision": 1794518770000,
+  "expires_at": 1797110770,
   "server_url": "https://sure-las-stands-ascii.trycloudflare.com",
-  "signature": "MEYCIQD27pE28z94zNnt8EeOp2+CfkDvEQybjJ2JDG6+otuC/gIhALeQib6cESsXB8eJ5yEfQxSPPpyBRtAsDOAeA4jxPaqC"
+  "signature": "MEUCIEygthIyqQUsup/Lbi08VDVm04hordHBUmRqtNyyXYE3AiEAi+T1j+EvxHN1q1DGdqV6kuaqke/feaA8ZcjA/uwCEsg="
 }
