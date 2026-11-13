@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794562038000,
-  "expires_at": 1797154038,
+  "revision": 1794562356000,
+  "expires_at": 1797154356,
   "server_url": "https://asin-dice-anime-biblical.trycloudflare.com",
-  "signature": "MEQCIFh9ZaJ6INW4+Cl2/wwHL9ZVNwYEKHJzZuW2jT6u86lzAiAiL/0UItkKhJ3ZjpOCADl2qpTZlBKy+m/aa2CI6kn2ig=="
+  "signature": "MEUCIQDlnaZOk6sndeD7Y7QdEa4+EJ4Y4JmB9xfl86wk9zVNlwIgPgu4DqWj9wlo2ShsLHLsXFRDDegyE1AskCx6cEOWyrc="
 }
