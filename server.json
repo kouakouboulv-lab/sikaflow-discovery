@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794566015000,
-  "expires_at": 1797158015,
+  "revision": 1794566409000,
+  "expires_at": 1797158409,
   "server_url": "https://dealing-aaa-provincial-elementary.trycloudflare.com",
-  "signature": "MEUCIBe4phv8x9FNBdpZpywWcY97VHyLem9+0VStCfEZxtLbAiEAmPz1XnMiyvem5hLyOALBQPVcr3guYHK7+EH3Bs8ozbY="
+  "signature": "MEYCIQDP210klm6b5lGm0aIOvOshIEzuxfioIHjzov6IT+75KgIhALoa7Q1tjaEufA4OiKtt3iVpqUGyxhxW79jl7VYxGOQ3"
 }
