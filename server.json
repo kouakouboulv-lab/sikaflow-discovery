@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794556230000,
-  "expires_at": 1797148230,
+  "revision": 1794556569000,
+  "expires_at": 1797148569,
   "server_url": "https://measuring-lower-attorney-munich.trycloudflare.com",
-  "signature": "MEUCIHTSYon4EM6RRX+htEEdERj4KpsDeEDFrzlVqS9oK2PBAiEAtGwO+4135vTLQEFaU54UqevLNY9LK9WxNpT6bhRjy0Y="
+  "signature": "MEUCIQDgntGu0txTvpikFnxe8fdJTf5kSMMuwgbJdEa91Yst5wIgDdxn+8Of9JEdedxihbw+4jaPwnfa96S8yxUnOMGI/h0="
 }
