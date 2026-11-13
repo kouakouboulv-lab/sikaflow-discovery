@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794602995000,
-  "expires_at": 1797194995,
+  "revision": 1794603317000,
+  "expires_at": 1797195317,
   "server_url": "https://builds-euros-slip-eight.trycloudflare.com",
-  "signature": "MEYCIQCM5hvkpLQ8nZy9hAxZ9aGSWZdeKMhg/6BI3wqcxevivwIhAM9Bl+vgxAk2h/a3Y72hdjXby/M2O9A9SsIiW6P5/j/F"
+  "signature": "MEYCIQDfK+CQbmqA5xpfh5KOOy8UCdTTlM2Q+sG8depuHQrMggIhANrjoHw+ooCMlsPETyfeyPzbBNhcO8bpsFGP3bbhfowP"
 }
