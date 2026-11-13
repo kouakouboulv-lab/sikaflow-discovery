@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1794573075000,
-  "expires_at": 1797165075,
+  "revision": 1794573389000,
+  "expires_at": 1797165389,
   "server_url": "https://assistant-klein-auctions-scenic.trycloudflare.com",
-  "signature": "MEQCIBcFDSb+nZ0po4bbn+YzZYyQRt1zAYXiCqaXyLWYk9DNAiAm52n1ynUZ0Lf0qCrybP+t0iwaqLVCBiu+21xuV7QQXQ=="
+  "signature": "MEYCIQDFTPplyPHCeDeosI3CqdUihtRGGucEjtL/SwpLIpl9bwIhAOGyICDL561BcyMZU9SSo7Z9vjMMQpiLAFgUa73ywhIX"
 }
