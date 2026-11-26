@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1795722625000,
-  "expires_at": 1798314625,
+  "revision": 1795722951000,
+  "expires_at": 1798314951,
   "server_url": "https://tournaments-assisted-blades-nikon.trycloudflare.com",
-  "signature": "MEUCIQDJpZhot3uPUxpmb5hMxxW2MFrkCrbnpc7ykn+IhIsVDwIgJs4t7AJkBfjJcmtLskJ35CPQ2mNswVT7YMf35r4uqxg="
+  "signature": "MEYCIQCUPcJw9U/3tyIAcYni1tMmfnbxDzw1+3dJqNlyuuw2oQIhALpZ3nd1NDlaDSp/FCdsVC2NZKW3n5xQ7ul5aN/qOBRF"
 }
