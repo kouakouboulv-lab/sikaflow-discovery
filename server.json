@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1795682791000,
-  "expires_at": 1798274791,
+  "revision": 1795683194000,
+  "expires_at": 1798275194,
   "server_url": "https://frontier-meal-seeing-collectors.trycloudflare.com",
-  "signature": "MEYCIQCew42hrI2/smmmXDWZa+bLvHM6KMQhXbH3oX5sBiaBUwIhAId2uAD4LDex/8B+HxEHwYclDX8+gHSNBB1Kwcb/j0td"
+  "signature": "MEUCIQCdIBZ1spAErImF4SCGlbjdzgoUq78gbQwDHzxM4s7QywIgKYDd0ApJzhDKN+9NU4okXGsebpZpNzgTLzfc3ALFAOg="
 }
