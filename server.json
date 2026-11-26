@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1795693551000,
-  "expires_at": 1798285551,
+  "revision": 1795693866000,
+  "expires_at": 1798285866,
   "server_url": "https://dollars-hang-alfred-expression.trycloudflare.com",
-  "signature": "MEQCIEOrf7EU7/UeJeBI2GThALrBfLRfetigIbqySw0SHcqIAiB1/iAfqxKDy83do3NvaEpVzw+8xLKeC3WuSrK7Kpy08Q=="
+  "signature": "MEUCIQCZ7ZmUhiKLIpbfmLefV73WE7/5ue+9FGZcB4DhGljxRgIgKo5FYc6VvYNYnauhy5gu++mSW+ungSbL74CR7+UC4TY="
 }
