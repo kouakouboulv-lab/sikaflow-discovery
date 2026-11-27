@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1795781645000,
-  "expires_at": 1798373645,
+  "revision": 1795782506000,
+  "expires_at": 1798374506,
   "server_url": "https://barrier-expansion-amounts-statistical.trycloudflare.com",
-  "signature": "MEYCIQDVPz/zaflKHW0cAWroCLm+YkyohgF233WyiwoC+ItIdQIhAOOVuRBnut2Q6QcSChW2sfc5cxY6uRL0kqeh8nG1ICYB"
+  "signature": "MEYCIQDmcbMD0O3+ujWkrZ6nCx6QjJG+P+8ZAnW2wIi3K/k+/QIhANZL7Yy5EWs4yVfQeRfgTHkFddBPPds88Qul6YD4wNFa"
 }
