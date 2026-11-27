@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1795799505000,
-  "expires_at": 1798391505,
+  "revision": 1795799819000,
+  "expires_at": 1798391819,
   "server_url": "https://puts-specialty-initiated-barcelona.trycloudflare.com",
-  "signature": "MEUCIF7qnUc7qBSnJqJGaDfFR5sEbv2kzJEpCBpGVpyXKbOOAiEAu5IjnJDDaD++wzV2/wq2bRLCN2rkXSnik1X/4hr2nNA="
+  "signature": "MEYCIQCl/d/hXs+CmpbOH2wdpZXeXuN5pqnohuAaHkgYDEBPRAIhAN2fR8RjX37/rTabr/InfefZ6MfEXGW3BR3FLi/9ahEf"
 }
