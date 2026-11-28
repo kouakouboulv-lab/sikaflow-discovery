@@ -1,8 +1,8 @@
 {
   "version": 1,
   "server_id": "092a7c65a0344c56b3c5e333f9f2a4cd",
-  "revision": 1795864528000,
-  "expires_at": 1798456528,
-  "server_url": "https://mario-inns-looking-harry.trycloudflare.com",
-  "signature": "MEYCIQCNt1esp52O5H7FJqWbvVMZOIIyKgiS9oN9RyuefwfgZwIhANZgNuloKtY2qtfRz4prlm9cNL75eZaPt+yJl3Gb47Xg"
+  "revision": 1795867492000,
+  "expires_at": 1798459492,
+  "server_url": "https://matrix-trans-batman-shed.trycloudflare.com",
+  "signature": "MEQCIEtTNtRw/aHfz681tgm+9q7avMw2DsJFeq6wZmvCSCgdAiAFlmH3kUzX2i7dp9jQOP4MGuLB/3oy4Pt7ZkynMja7VQ=="
 }
